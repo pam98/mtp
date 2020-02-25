@@ -3,7 +3,7 @@
 ### Install
 On your server run
 ```bash
-curl -o MTProtoProxyInstall.sh -L https://git.io/Jvlyt && bash MTProtoProxyInstall.sh
+curl -o MTProtoProxyInstall.sh -L https://git.io/JvuOM && bash MTProtoProxyInstall.sh
 ```
 Wait until the setup finishes, you should be given the links. (using `systemctl status mtprotoproxy -l` will display said links as well)
 
